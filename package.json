@@ -1,0 +1,19 @@
+{
+  "name": "typescriptstart",
+  "version": "1.0.0",
+  "description": "Small demoes and project to learn TS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/challey17/TypeSrciptPlayGround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/challey17/TypeSrciptPlayGround/issues"
+  },
+  "homepage": "https://github.com/challey17/TypeSrciptPlayGround#readme"
+}
